@@ -1,0 +1,29 @@
+{
+  "name": "chamado",
+  "version": "1.0.0",
+  "description": "sistema de abertura de chamado - help desk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flavio-fgjj/chamado.git"
+  },
+  "keywords": [
+    "chamado",
+    "helpdesk"
+  ],
+  "author": "Flavio Alvarenga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flavio-fgjj/chamado/issues"
+  },
+  "homepage": "https://github.com/flavio-fgjj/chamado#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "knex": "^0.15.2",
+    "moment": "^2.22.2",
+    "mysql": "^2.16.0"
+  }
+}
